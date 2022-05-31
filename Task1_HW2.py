@@ -9,4 +9,4 @@ print(my_list)
 
 print('The smallest element of our list is:', min(my_list))
 print('The biggest element of our list is:', max(my_list))
-
+print(my_list)
